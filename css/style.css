@@ -1,0 +1,42 @@
+body{
+  background-color:rgb(110,100,110);
+}
+#jumbo1
+{
+    margin-left:-100px;
+    height:100%;
+}
+#jumbo2
+{
+    background-color:white;
+    height:30%;
+    width:800px;
+}
+#jumbo3{
+    width:800px;
+    height:55%;
+}
+#icons
+{
+    margin-top:100px;
+}
+#img1{
+  margin:0 auto;
+  border: 5px grey solid;
+}
+#name{
+  font-family:'Allura';
+}
+#main
+{
+  display:inline; 
+}
+.profile
+{
+  display:flex;
+  float:right;
+}
+.content
+{
+    margin-top:100px;
+}
